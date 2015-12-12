@@ -9,7 +9,7 @@
   },
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
   "license": "MIT",
-  "homepage": "https://github.com/curiouschip/imp-ws-transport#readme"
+  "homepage": "https://github.com/curiouschip/imp-ws-transport#readme",
   "dependencies": {
     "buffer": "^3.5.5"
   }
