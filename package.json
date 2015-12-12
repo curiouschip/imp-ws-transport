@@ -1,0 +1,6 @@
+{
+  "name": "imp-ws-transport",
+  "dependencies": {
+    "buffer": "^3.5.5"
+  }
+}
